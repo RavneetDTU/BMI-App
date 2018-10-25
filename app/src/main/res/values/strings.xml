@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMIApp</string>
+
+    <string name="facebook_app_id">743957059291994</string>
+    <string name="fb_login_protocol_scheme">fb743957059291994</string>
+
+
+</resources>
